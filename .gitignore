@@ -1,0 +1,5 @@
+.venv
+db.splite3
+photos/
+__pycache__/
+/db
